@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+# Log files
+*.log
+
+# OS-specific files (macOS, Windows, etc.)
+.DS_Store
+Thumbs.db
